@@ -1,0 +1,8 @@
+C:\Code\Prog2\ExamenPOO_Lavoie_Jean-Felix\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe.config
+C:\Code\Prog2\ExamenPOO_Lavoie_Jean-Felix\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe
+C:\Code\Prog2\ExamenPOO_Lavoie_Jean-Felix\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.pdb
+C:\Code\Prog2\ExamenPOO_Lavoie_Jean-Felix\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.AssemblyReference.cache
+C:\Code\Prog2\ExamenPOO_Lavoie_Jean-Felix\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.SuggestedBindingRedirects.cache
+C:\Code\Prog2\ExamenPOO_Lavoie_Jean-Felix\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.csproj.CoreCompileInputs.cache
+C:\Code\Prog2\ExamenPOO_Lavoie_Jean-Felix\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.exe
+C:\Code\Prog2\ExamenPOO_Lavoie_Jean-Felix\ExamenFinal\ExamenFinal\obj\Debug\ExamenFinal.pdb
